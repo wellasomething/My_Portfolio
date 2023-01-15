@@ -1,0 +1,143 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    color:#40514e;
+    background-color:  #ddece2;
+}
+
+
+
+.top{
+    background-color: #F6F6C9;
+    margin: 0;
+    position: relative;
+    padding-top: 100px;
+    
+    
+}
+h1{
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    color: #153462;
+    line-height: 2;
+}
+
+
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    color: #153462;
+    font-weight: normal;
+    padding-bottom: 10px;
+}
+
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color: #207f73;
+}
+
+a{
+    color: #4FA095; 
+    text-decoration: none;
+    margin-right: 10px;
+}
+
+.middle-container{
+    background-color: #ddece2;  
+    margin: 100px 0;
+}
+
+.skill-row{
+    width: 50%;
+    margin:100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+    
+}
+.bottom-container{
+    background-color: #153462;
+    padding: 50px;
+    
+
+}
+
+.top-cloud{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+
+.bottom-cloud{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+
+.mid-image{
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+}
+.skill-1{
+    height: 100px;
+    width: 100px;
+    float: left;
+    margin-right: 450px;
+}
+.skill-2{
+    height: 100px;
+    width: 100px;
+    float: right;
+    
+}
+hr{
+    border-style: none;
+}
+
+.intro{
+    width: 30%;
+    margin: 0 auto;
+    line-height: 2;
+}
+
+.outro{
+    width: 30%;
+    margin: 0 auto;
+    line-height: 2;
+}
+
+.btn {
+    background: #1b786b;
+    background-image: -webkit-linear-gradient(top, #207f73, #1b786b);
+    background-image: -moz-linear-gradient(top, #207f73, #1b786b);
+    background-image: -ms-linear-gradient(top, #207f73, #1b786b);
+    background-image: -o-linear-gradient(top, #207f73, #1b786b);
+    background-image: linear-gradient(to bottom, #207f73, #1b786b);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 8px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    line-height: 5;
+  }
+  
+  .btn:hover {
+    background: #ffffff;
+    border: 2px solid #1b786b;
+    text-decoration: none;
+    color: #1b786b;
+  }
+  .fa-linkedin{
+    color:rgb(30, 30, 215);
+  }
+  .fa-twitter{
+    color:rgb(88, 205, 255);
+  }
+  .fa-github{
+    color:#ffffff;
+  }
